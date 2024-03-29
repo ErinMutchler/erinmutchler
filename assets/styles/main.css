@@ -1,0 +1,21 @@
+@import url("https://use.typekit.net/rvt6uak.css");
+
+:root {
+    --primary: #1F6A73;
+    --secondary: #bb2c60;
+    --dark: #1F2227;
+    --light: #F5F2E1;
+    --primary-light: #4494A6;
+}
+
+body {
+    font-family: basic-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--light);
+}
+
+p {
+    line-height: 1.8rem;
+    font-size: 1.1rem;
+}
