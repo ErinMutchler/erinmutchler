@@ -1,5 +1,5 @@
 <template>
-  <ContentSection title="Technology and Education" :is-last-section="true">
+  <ContentSection title="Community Engagement and Development" :is-last-section="true">
     <p>Community is at the center of all of my work, whether it is through my advocacy education work. Here are a few of the larger community events I have worked with.</p>
     <section>
       <h2>Terre Haute Pride Festival 2023</h2>

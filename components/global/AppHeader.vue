@@ -3,9 +3,9 @@
     <HamburgerIcon @click="expanded = !expanded" v-show="desktopWindow===false"></HamburgerIcon>
 
     <nav v-if="desktopWindow || expanded === true" :class="[desktopWindow === true ? '' : 'mobile']">
-      <NavLink to="/">About</NavLink>
-      <NavLink to="/portfolio">Portfolio</NavLink>
-      <NavLink to="/contact">Contact</NavLink>
+      <NavLink @click="expanded = false" to="/">About</NavLink>
+      <NavLink @click="expanded = false" to="/portfolio">Portfolio</NavLink>
+      <NavLink @click="expanded = false" to="/contact">Contact</NavLink>
     </nav>
   </header>
 
