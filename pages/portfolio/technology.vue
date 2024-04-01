@@ -7,7 +7,7 @@
         The platform includes the physical robots as well as a <a href="https://vigo-robotics.web.app"> web-based tool </a> for programming them. The purpose of this
         program was to create a robotics platform which would cater to a wide range of audiences with diverse skill
         levels. The robots themselves are prebuilt with ports for adding on new sensors and actuators,
-        allowing students to explore beyond their pre-configured chassis. The <a href="https://vigo-robotics.web.app"> web-based IDE </a>a allows users to program in either Google's Blockly using pre-defined blocks designed for these robots or program in Circuit Python. This gives users a natural transition from block programming to text proramming.</p>
+        allowing students to explore beyond their pre-configured chassis. The <a href="https://vigo-robotics.web.app"> web-based IDE </a>allows users to program in either Google's Blockly using pre-defined blocks designed for these robots or program in Circuit Python. This gives users a natural transition from block programming to text programming.</p>
       <div class="image-gallery">
         <img src="@/assets/images/robotics-1.jpg" alt="Students at laptop" />
         <img src="@/assets/images/robotics-2.jpg" alt="Students running robots at competition table" />
@@ -40,7 +40,7 @@
     </section>
     <section>
       <h2>Green Thumb Tech</h2>
-      <p>Green Thumb Tech is a series of programs I offered at the Vigo County Public Library. These programs were designed to teach library patrons how to utilize technology within their gardens. The core concept was focused on using an array of sensors such as soil moisture sensors, temperature sensors, and humidity sensors to notify you about the status of your plants. For this project, we used the Raspberry Pi Pico W as an affordable wifi-enabled microcontroller and used the free credits from the service, Twilio, to send SMS messages to participants phones with updates. </p>
+      <p>Green Thumb Tech is a series of programs I offered at the Vigo County Public Library. These programs were designed to teach library patrons how to utilize technology within their gardens. The core concept was focused on using an array of sensors such as soil moisture sensors, temperature sensors, and humidity sensors to notify you about the status of your plants. For this project, we used the Raspberry Pi Pico W as an affordable wifi-enabled microcontroller and used the free credits from the service, Twilio, to send SMS messages to participants' phones with updates. </p>
     </section>
     <section>
       <h2>Intro to 3D Printing</h2>
